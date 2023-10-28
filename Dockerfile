@@ -1,4 +1,4 @@
-FROM regisry.alauda.cn/devops/ubuntu:17.04
+FROM regisry.alauda.cn:60080/ops/ubuntu:20.04
 
 ### SYSTEM DEPENDENCIES
 
